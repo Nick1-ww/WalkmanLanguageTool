@@ -67,6 +67,3 @@ a coffee:
 - Ko-fi: https://ko-fi.com/nick_w_w
 - Card (Visa/Mastercard via Monobank): https://send.monobank.ua/jar/5wpJ7Xxpvo
 
-## License
-
-MIT
