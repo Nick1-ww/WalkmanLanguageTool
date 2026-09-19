@@ -51,9 +51,6 @@ This changes a service area of your player's firmware. It's generally safe
 and well documented by the community, but it's done **entirely at your own
 risk**. The author is not responsible for any damage to your device.
 
-**Do not use the Japan (J) destination unless you're sure** — after a
-reset, the interface language becomes Japanese only, with no way to switch
-back.
 
 ## Credits
 
