@@ -7,8 +7,6 @@ many interface languages the player will let you choose from.
 It's a friendly wrapper around the community `scsitool` command-line
 utility: instead of typing commands, you get a window with buttons.
 
-![screenshot](screenshot.png)
-
 ▶️ **Video walkthrough:** https://www.youtube.com/@samouch6347
 
 ## Why you'd want this
