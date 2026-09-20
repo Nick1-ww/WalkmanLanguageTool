@@ -7,7 +7,7 @@ many interface languages the player will let you choose from.
 It's a friendly wrapper around the community `scsitool` command-line
 utility: instead of typing commands, you get a window with buttons.
 
-▶️ **Video walkthrough:** https://www.youtube.com/@samouch6347
+**Video walkthrough:** https://www.youtube.com/@samouch6347
 
 ## Why you'd want this
 
@@ -45,7 +45,7 @@ Grab the latest `WalkmanLanguageTool.exe` from the
 6. On the player itself, go to **Settings -> Reset -> Reset all settings**.
    This step is required — the new language won't show up otherwise.
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 This changes a service area of your player's firmware. It's generally safe
 and well documented by the community, but it's done **entirely at your own
